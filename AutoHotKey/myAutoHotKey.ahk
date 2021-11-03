@@ -19,6 +19,8 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ; LAlt::LCtrl
 
 ; Ecmas風矢印設定
+; 次の改行大事
+
 AppsKey & f::Right
 AppsKey & b::Left
 AppsKey & p::Up
